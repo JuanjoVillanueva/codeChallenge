@@ -12,6 +12,7 @@ Developed by Juanjo Villanueva
 - run your local server
 
 
-* Demo
-
+**********************
+Demo
+**********************
 -  `Demo <https://juanjovillanueva.com/demo>`_
